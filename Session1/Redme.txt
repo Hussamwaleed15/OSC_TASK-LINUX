@@ -1,1 +1,39 @@
+HUSSAM WALEED SABRI ABDELHALEM BAKER ELGANDOUR
+Session1.txt
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+STEP 1 :
+cd ------> to move to Desktop
+mkdir ----> to make new directory hussamwaleed
+cd ------> to enter hussamwaleed
+pwd------> to check where i am now
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+STEP 2 :
+mkdir ----> to make new directory Documents
+cd ------> to enter Documents
+touch ---------> to make files
+ls -------> to list files
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+STEP 3:
+cd .. ---------> go back to hussamwaleed
+touch . -------> to make hidden file
+ls -a ------> to list a hidden files only
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+STEP 4:
+nano --------> editing the word and text by using nano
+cat ------> to list the word or text inside the file1.txt
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Step 5 & 6:
+cd ----> go to main directory hussamwaleed
+mkdir -----> make new directore -
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Step 7:
+cp -r ------> to take copy of the files only inside the file
+ls ------> to list My_Documents
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Step 8 & 9 & 10
+cat ------>to list the word or text inside the hidden file but there is nothing 
+mv ------> to move file2.txt and file3.txt 
+ls -----> to list and check the to files are moving 
+rm -R -----> to delete the main directory hussamwaleed
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
