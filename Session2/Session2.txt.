@@ -1,1 +1,402 @@
+HUSSAM WALEED SABRI ABDELHALEM BAKER ELGANDOUR
+Session2.txt
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+step1:
+unizep
+---------------------------------------------------------------------------------------------------------------------------------------------------
+step2:
+tar xvf
+---------------------------------------------------------------------------------------------------------------------------------------------------
+step3:
+cd 
+tar -xf
+cd
+ls
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+step4:
+find -type f -name"txt"
+cd ./gBT5u0vLT5
+ls
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+step5:
+tar -xf level-3
+cat README.txt
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+step6:
+ls -li
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+to run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+hussam@hussam-virtual-machine:~$ ls
+Desktop    Downloads  Pictures  snap       Videos
+Documents  Music      Public    Templates
+hussam@hussam-virtual-machine:~$ cd Pictures
+hussam@hussam-virtual-machine:~/Pictures$ ls
+Updated-Task-02.zip
+hussam@hussam-virtual-machine:~/Pictures$ unzip Updated-Task-02.zip
+Archive:  Updated-Task-02.zip
+   creating: Updated-Task-02/
+  inflating: Updated-Task-02/README.txt  
+  inflating: Updated-Task-02/.level-1.tar  
+hussam@hussam-virtual-machine:~/Pictures$ tar xvf Updated-Task-02/level-1.tar
+tar: Updated-Task-02/level-1.tar: Cannot open: No such file or directory
+tar: Error is not recoverable: exiting now
+hussam@hussam-virtual-machine:~/Pictures$ tar xvf Updated-Task-02/.level-1.tar
+.level-1/
+.level-1/README.txt
+.level-1/level-2
+hussam@hussam-virtual-machine:~/Pictures$ cd .level-1
+hussam@hussam-virtual-machine:~/Pictures/.level-1$ ls
+level-2  README.txt
+hussam@hussam-virtual-machine:~/Pictures/.level-1$ tar -xf level-2
+hussam@hussam-virtual-machine:~/Pictures/.level-1$ cd level-2
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2$ ls
+01VzXCtEZS  AVR4cOJJui  F7HxYNlWa1  kuDj7Ti4Id  pRQVevx1kv  vm5P2xLF3s
+09tuxAUkSZ  AXkzOy8ZzP  feBbPjPHsA  kVQzoTdmBO  PVhcqo825N  VMVoKBX4Qu
+0MaqBh51eE  b8L3KxPJL3  FKtcWd8ViA  L3QwW94Azo  Q6QURkVvYf  vOcM3EYMXw
+1Rc48mLISP  bc83b2Byu2  fky7p46DOi  l6FQ8rGXcW  QIGyaTtmlW  VUOJouKqL9
+1t7LeNZeIl  BeSbKu0Ogb  fSikeo7Jtz  l8fShvYkRA  QirM8dLKSD  VxWCuMyoCO
+2dBiyDY1PQ  BsdD4ojJkc  fTBdzWqgkc  lcVizkoO1R  Qv3QTzvZC1  w9ophYtx44
+2tqNyIRWZk  bvSabnQtuB  FUSxQX2TeD  lvEy6vrtZe  README.txt  waa5BUbYjL
+3aI6ZRWi7g  ciyaIBrj64  g18DV62wEd  LXdwN4DGye  rHC2JXoQSc  wfbzcLn49x
+3HClX3dFMm  clktsGviqW  gB9k1O4ZT6  lxQpP8fJrM  rjS1PORSqI  WU2NIZw5bL
+3nhuQzOgpI  CoXO2qfhv8  gBT5u0vLT5  mIQgRJXCLp  rn4s52kOCO  WWgF2QTu1U
+40Mg6vDbYN  cqxENw21F1  Gf0hDzawoe  mLD2604WjZ  rnTFX18Jh9  WxGYCzojb5
+4bq72IzcAj  cTJdoZGT00  Gi0sWVVQmE  mMwQyrbtaZ  rTAkta2aW2  WzkBDyZf09
+4CkUBprXze  cUJtGyfwcE  GqeOr84K6i  Mn1k5s3x2R  rzz4HDYtQb  x2OxGPBNwZ
+4OAvfgFenY  cuL74htcTP  gUm1Kw3MsJ  mTJFxGhibA  s82TBxnZgd  X7by8vw474
+4Qm9FLdd1E  cYLRnO8xIB  GuxvN3cJ7U  n80qgsvhlQ  SkWLO4DmJj  xiRKbhzAt6
+4TqWZorrCe  D240Im7S6f  H2TS1vp6Xt  n8QxXKvUat  soPx5vMfvS  Xnmws6DuHJ
+54is18fJ6D  dcWFp0gN0U  HC3gnSrNHL  n9Gy45gDYd  SpGacqvoQe  Y2WinDQzOb
+5CnJF4NcXe  dkbSpLYJE5  HDe7NHRINO  NABe6RrZS9  Sv7z35zbDG  y7U81AE7BP
+6jKgIUUWGx  DQ3kjLgCUV  HRHgAeIQKP  NB8PtjcBPu  T4TiKdPbRw  yc0GFVKDtL
+6LythIyWzQ  dW436qn2Pa  hsM9mQuMTH  NuvecJk6rH  tmDRcrdYa9  YH3RBGocdA
+6QcByCct9B  DWahK49MnT  hynub0MKNl  nV9Fht2ABW  TynxkdcmfZ  ymuoaRLefH
+7B5l8AC1M8  dwmlaLoghH  Ib1jBtgkP4  O0Jt20BDT8  u8APo7fuFv  yWegzIJdDb
+7dnQ0OZO7U  DYCdqY7wJN  iJfohlDIrt  o1hEPIsnq0  uCBBCPnmb2  yWY8iLmL2v
+7f6nrbSyXM  E0bi5j8X9V  IXzIL2c9IA  o5zluFzkcg  uH7zN1UJSF  Yx2PUbl2gA
+8HuZDGUf7D  EC1LKYOR0Z  jbZwCGWF1u  oATDmz0CAK  UkoXWlT8ck  ZDe6elrEn5
+8lNsncDmgT  ECIShbzsBE  jGu9MApzJB  OBfROJ7kKU  UkXg7Lp9iV  ZgiaL4uwSD
+a8wKwwWNRJ  EDPOSQuyWk  JiMEslX4PO  OEQ9RG7Cam  Uo2uLQHfWm  ZhfPkBCn6B
+ABtpOP8TR9  EJd4UALueA  JVucZ5s2sO  OlDXrxU8tn  URJcbPH7ig  zQ85ieoBzD
+AbyVd8kDq7  emEeo94yqd  jzjKDCAuJh  OQUNDxbuAf  uUeLfbjNyx  zTpHflQtBt
+aD09T4P1xb  eRz0wDJzB6  k0KGHDEFmp  P9w2t9K9Ju  UUrQyToe6M  ZwCSnEFDCS
+afHUHOaYAb  Etsj7NECd9  KNXMn8sBL8  PBQjGeeXZ2  uYt23HMkvu  zXOU7yVyjx
+AKf6S1hWVZ  eTY7qTsykD  KO4TANambB  PDsc45eDhU  v2LInrvkDO
+AofrZBGKhB  evJEy0ce9D  kPIkdmGR9B  po63smRLBt  v9kNm4bENt
+aT6OddrPAr  f4sJ94QCRL  kr6RDEYCed  pptcUXKeGS  VkL2bz9W98
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2$ find -type f -name "txt"^C
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2$ cd ./gBT5u0vLT5
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5$ ls
+level-3
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5$ tar -xf level-3
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5$ cd level-3
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5/level-3$ cat README.txt
+You're seeking a file with a certain size.
+Find the link to get the size.
+
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5/level-3$ ls -li
+total 1900
+24498 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 00aBxtql7r
+24846 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 0aba2tPi4R
+24874 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 0QYBUNJixX
+25004 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 17pfO4tY4m
+24426 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 1NBA3mJTQC
+24512 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 1pnvifRmA6
+24794 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 22ix6enm8X
+24392 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 2GsF4Kn1PG
+24962 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 2IFaRh0Jxc
+24984 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 30msooUqJf
+24246 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 3Ig28f7Xa8
+24852 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 3SSDrwrwmt
+24782 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 3TpnDd6PaY
+24982 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 3wTdqmDig6
+24420 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 3XXNloi4gV
+25010 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 3YhvETOVcv
+24902 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 4jFmUBgygR
+24354 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 4vG2fYLy6B
+24416 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 53IaK7n1np
+24998 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 5H5OLdA8qE
+24376 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 5ME7YKcHsa
+24834 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 5tAchjHlmE
+24400 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 5tJnO1Mwzf
+24990 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 5VoPA03kvi
+24394 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 6AJpxbHYkm
+24830 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 6C8RwQ9kGP
+24948 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 6hnWZbro0I
+24802 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 6JPHCI1K8M
+24788 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 6lie6mPCRe
+24364 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 6mnK6keHIi
+24472 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 6mpTfHgnlX
+24892 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 6vigp6VM7d
+24312 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 6ZJgIXN3P0
+24878 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 71qxiSKgAY
+24854 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 74gKRNrKVf
+24374 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 77RwxhcZTx
+24476 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 7C4OyiuQc4
+24960 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 7nMGZvigiL
+24208 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 7PFGHcmfa2
+24348 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 7sxFwD2jGw
+24242 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 82aRYKaCZB
+24890 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 88exEg2MMo
+24260 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 8IOqsSAWIo
+24876 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 8OLXyd5ai0
+24824 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 8u4f62oAYb
+24384 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 8X1ovlX6ex
+24230 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 9CA6eRBprt
+24458 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 9GqYmpQsAS
+25006 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 9my7brVWmo
+24398 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 9NNnGuH7A1
+24396 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 9QBLcfEf91
+24424 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 a6HPyy5Mz5
+25002 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 A8SqBitLRB
+24456 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 aFjSvqXqWE
+25014 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 AI8sfDgnhT
+24864 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 AJtW9NcRLy
+24784 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 ANRcGwDkvK
+25020 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ayHSb1kjNd
+24964 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 b4BF572o41
+24928 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 b957oPA24t
+24470 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Bb0kZiNxDz
+24352 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 BbreWoCXSv
+24438 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 bduLsR7v4K
+24526 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 bOKXTvk63r
+24860 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 BrJvEu79eg
+24500 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 BTf86zJsB3
+24924 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 byVoAmiOqs
+24798 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 bze36b6xjZ
+24342 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 C5KrlOGYlu
+24786 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 cDfzzIGULi
+24338 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 cF1AG2dtLr
+25018 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 cjcKUQDGLl
+24236 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 cKiyNtE0yD
+24218 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 ClbTpohwVU
+24372 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 cStCLsSELl
+24366 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 ctnOoPIga1
+24222 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 cWRi45wacA
+24840 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 cWZv9iI87X
+24506 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 cX6YaqFDFY
+24816 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 D5JYr3I592
+24912 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 dBJSXzmpb1
+24460 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Dd9KxIjxSB
+24534 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 dK320XCmR0
+24450 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 DKiaUm3WBb
+24256 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Doi1I9Z8TE
+24836 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 dqbKkDKbZl
+24306 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 dtLZdglPV3
+24814 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Dux6sHDdCW
+24448 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 EHm7bcCxj1
+24922 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 epBL6naqQR
+24872 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 ePj0HMi3nh
+24252 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Eqk382soFH
+24488 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 eT21MMr22o
+24808 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 eT909HWyck
+24282 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ETRyNzIpYk
+24244 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 ev8BCScTMa
+24776 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 F5Db7l8s9j
+24370 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 F9OYJjkGiB
+24530 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 fCLOGDR05y
+24432 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Fdvgo1aqTT
+24310 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 FeBBLsJEYS
+24340 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 FJsgrBEwbJ
+24270 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 flbjrqIXMS
+24974 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 fn95Z2sG3o
+24430 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 FYrh0rmC4q
+24292 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 G9UhKYNLgv
+24538 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 GaMed1WIDN
+24856 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 gcb0bfLbVM
+24224 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 gfLQDXjJAW
+25012 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 Gksn5ca8Jn
+25024 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 gOWuBZZgn2
+24870 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 GPaN65ikSl
+24326 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 gu78Zpnknw
+24994 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 gu92R3c92I
+24770 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 gupiPOsJzC
+24772 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 hb4zKjD5G4
+24288 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 hBv1LejGKu
+24378 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Hf8ovJhWKI
+24322 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 hGCeu2NgZ5
+24514 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 HuSBc8QKYi
+24904 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 HXq7gqQZ5Z
+24216 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 i4CkeVfT7S
+24826 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 iCR4qC97HM
+24490 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 IE4xWwbydi
+24894 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 IiLRIuK1Fi
+24428 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 IKeqpTmvmW
+24916 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ioOe8b7TsJ
+24868 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 iOplykVsBo
+24536 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ip23ESdwGT
+24380 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 IygdcTaoYP
+24334 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 iymCtoFUVf
+24276 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 j3JsNAEsm1
+24996 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 J3K5BY52dp
+24976 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 J5feTUwPso
+24838 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 jahdjqT54b
+24532 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 JArjmQWPVq
+24468 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 JBDnoFKLcx
+24436 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 JbMcWq9tku
+24320 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Jc0EEC4sua
+24266 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 JgVwSWAUsr
+24768 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 JlhNaDm4f7
+24790 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 JnOT2WHKbE
+24388 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 jpO4wGMT57
+24936 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 JqAekDHYif
+24344 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 jrMKucOmtp
+24848 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 jVBkVAbTHj
+24232 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 jVGv0HeZvG
+24278 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 jvyPQ8Z8ht
+24792 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 JYdPDFpOIe
+24318 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 k2yYJNQcLu
+24346 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 K56S3V4AQ6
+24804 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 K9kyHBbw7y
+24406 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 Kfce3CFjhh
+24942 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 KJBdbwTmzD
+24304 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 kkIu8kVXLo
+24806 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 kOIOppD8hx
+24502 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 kp1ujuDGKO
+24886 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 krWRFtvYDP
+24774 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 kT3eEAfVcY
+24280 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 kwmQK5z76U
+24286 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 L5DOn3iY18
+24800 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 L8ZzpZTLz5
+24952 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 LeUtklcfmE
+24896 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 LKfMizQQjE
+24822 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 lowIuX2RQI
+24988 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 LtH4X99Uw3
+24234 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 LZ5jebusoa
+24906 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 M1vV6QxnH1
+24330 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 m59pSiQG2p
+24542 drwxr-xr-x 2 hussam hussam 112 أغس  9 20:35 m7lRDpRTUJ
+24858 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 MaqkHpS39h
+24958 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 MKQErXMkPE
+24262 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 moQuVgMB1f
+24228 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 mRET49bBGR
+24818 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 mu6c42Y1qo
+24934 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 mwILTjPhCP
+24888 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 mxG418at98
+24970 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 mydABLXwyL
+24508 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 n4d9SlSzcV
+24484 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 n4MCXv5XM2
+24210 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 N5lXyVotHN
+24938 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 nBoQgGxoGX
+24250 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 NdkrRTZmr9
+24434 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 NHag0dTW3U
+24272 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 nlgqxKuRC3
+24368 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 NLM96g2hH3
+24926 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 Nmuh6DvLkc
+24410 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 nR711EHtmU
+24404 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 nSC9OkT1E3
+24966 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 nwt49CVPtC
+24528 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 O009zeKkif
+24466 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 O0V7mQCicJ
+24240 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 o6Q2i1NUXc
+24452 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 OAbH1oFg57
+24778 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 OaRp7TV8pe
+24268 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ObIefWWqqM
+24220 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 OFx3U24MoP
+24212 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 OHWTswrtBk
+24248 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ojc7SuLzMV
+24520 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 orzpz7CBBQ
+24316 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Ou1q6zOh5n
+24444 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 oV3aef60WL
+24828 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 OXZ3OOGJ7O
+24910 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 oZ5HOQe6X0
+24492 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 p194n4sSpi
+24454 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 p3ARvi0q4F
+24254 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 p6PVEBfSyK
+24496 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 PaOzJn0sJV
+24418 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 PDJdFxfgvh
+24408 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 penDnjNMQc
+24518 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 pH9s3o8foP
+24780 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 pI49N7Zoxn
+24504 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Pmf5TqkkYg
+24422 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 pO4Lt5DPrX
+24298 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 psmL4dk69Y
+24968 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 pXXxEWcKkz
+24264 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 q4gh4nODZa
+24360 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 qFO0JDSF0N
+24294 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Qh9GBAd3mF
+24956 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 QM053Y9Vw1
+24440 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 R0LpA1qK4F
+24882 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 R6okint5JZ
+24478 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 R82WkcyQAx
+24474 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 rcEkx0b0WC
+24300 -rw-r--r-- 1 hussam hussam  75 أغس  9 20:35 README.txt
+24332 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 rgNTkxVkxN
+24820 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 RnL5L0QLbY
+24832 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 RPZAvV75tm
+24810 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 RU4rJzjPfg
+24850 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 RWWLnFwGtv
+24918 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 rwZwqdxHhJ
+24954 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 rzSTDqa7oV
+24842 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 SaaZymLdoG
+24308 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 SaQtx8SNld
+24356 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 sf7ajd5INC
+24766 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 skVRxkHK04
+24764 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 sNrtW0eiZF
+24284 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 SqAZPx7CbA
+24446 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 SRgPbWeEG6
+24524 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 sRhTcN4PIw
+24358 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 sVyNLUXzut
+24796 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 T0gYx5T5ks
+24980 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 Tbi1MdwiMX
+24480 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 tEgA7tGwxB
+24336 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 TezFlyJz9o
+24950 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 TFkiwAHDrG
+24412 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Tt0xmDrg4Y
+24442 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 tZCE2HQg8s
+24510 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 uAw4PKT7E0
+24844 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 udqz57oeuX
+24328 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ufdeX2Dk7C
+24402 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 v2ME2J4GuF
+24464 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 V64A9vKnYq
+25026 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 vkaOISlk2I
+24302 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 vLWtq7N2aR
+24812 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 VneCQhwmfv
+24940 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 vUbRKbYlKR
+24362 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Vw5Jm3saUP
+24238 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 vz1uLzTKjO
+24914 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 VZw2jtUdZD
+24274 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 W6AdwbmalK
+24290 -rw-r--r-- 1 hussam hussam  34 أغس  9 20:35 WfUKyzFeEv
+24350 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 WFyKhZdOcx
+24482 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 wgibrPHhJq
+24880 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 WhTtCYas3M
+24920 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 wJC19bchr2
+25016 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 WLuasYnMvP
+24908 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Wm14GdEGcm
+24866 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 wpJyCPLODS
+24314 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 wpoGQ7WmSg
+24462 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 WSxUR7IJd8
+24540 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 wZ4LJKpHW6
+24884 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 x2CDPgz6Jk
+24324 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 x3Nvoy3Ucl
+24898 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 x3SkxfEItU
+24978 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 X62Vq1yIyL
+24258 lrwxrwxrwx 1 hussam hussam  10 أغس  9 20:35 X6lkChFKsj -> WfUKyzFeEv
+24386 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 XapfbudtZp
+24390 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 xBsGYZHomA
+24946 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 xigSiLU79u
+24214 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 XkrAGaosYZ
+24972 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 xRxKkdCTU8
+24932 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 xYCpOSRLsl
+24226 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 xYlmccmE5f
+24296 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 Y0nB0Ep1my
+25008 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 y1IAp2YdZc
+24930 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 Ye8R8ZOvJ9
+25000 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ygasPrK3kG
+24900 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 YgeyHmPrtP
+24516 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ysdoXYcYQq
+24986 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 YVAPjrh8Up
+24522 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 zEmK04yIqc
+24862 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ZenzUsQydR
+24382 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 zet1AFeHNl
+24414 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 zghxQE4JGJ
+25022 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 ZNq1fiVP6F
+24992 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 zTfi6AwgZQ
+24944 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 zxmnKldpmY
+24494 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 zzgiKI2xSS
+24486 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 zZU6ymQky6
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5/level-3$
 
