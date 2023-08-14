@@ -25,6 +25,12 @@ cat README.txt
 step6:
 ls -li
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+step7:
+ find -size 73c
+cat m7lRDpRTUJ
+cd m7lRDpRTUJ
+cat xVMvVOKNW5
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 to run a command as administrator (user "root"), use "sudo <command>".
 See "man sudo_root" for details.
 
@@ -398,5 +404,13 @@ total 1900
 24944 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 zxmnKldpmY
 24494 drwxr-xr-x 2 hussam hussam   2 أغس  9 20:35 zzgiKI2xSS
 24486 -rw-r--r-- 1 hussam hussam   0 أغس  9 20:35 zZU6ymQky6
-hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5/level-3$
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5/level-3$ find -size 73c
+./m7lRDpRTUJ/xVMvVOKNW5
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5/level-3$ cat m7lRDpRTUJ
+cat: m7lRDpRTUJ: Is a directory
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5/level-3$ cd m7lRDpRTUJ
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5/level-3/m7lRDpRTUJ$ cat xVMvVOKNW5
+Congrats!! You have finished the Task Successfully, you can rest now :D.
+hussam@hussam-virtual-machine:~/Pictures/.level-1/level-2/gBT5u0vLT5/level-3/m7lRDpRTUJ$
+
 
