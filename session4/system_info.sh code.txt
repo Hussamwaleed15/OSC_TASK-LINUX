@@ -1,0 +1,3 @@
+#!/bin/bash
+echo"Username: $(whomi)"
+echo "kernel Version: $(uname -r)"
